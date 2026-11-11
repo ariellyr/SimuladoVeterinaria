@@ -1,0 +1,6 @@
+@SimuladoVeterinaria_HostAddress = http://localhost:5130
+
+GET {{SimuladoVeterinaria_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
